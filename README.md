@@ -22,17 +22,18 @@
 - This is the sample Login page/Landing page of the application (with no styling though).
 - This is the sample result landing page of the student.(again with no styling though).
 <img width="946" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/8e76319c-01d1-4145-a7e6-5078f0091fe2">
-- Here are the functionalites samples of the admin: 
+- Here are the functionalites samples of the admin & counsellor: 
 <img width="416" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/3c00a546-c8ce-437e-b997-4d2e5befe166">
 <img width="278" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/40b9f901-f701-45e1-ac34-e09021061258">
-- Here are the functionalities of the counsellor:
 <img width="419" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/c249a02a-a11f-4563-a74f-28e04ec50a75">
 <img width="788" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/bde38726-ec00-480f-b961-a93bbfdbccfa">
 
-> **Django Admin Panel view:**
+### **Django Admin Panel view:**
 <img width="947" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/5d945da2-2f58-424d-bf4d-429110e8a9df">
-> **Project Structure:**
-![image](https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/eec36480-9e49-409b-8513-818fd96e4c98)
+
+### **Project structure**
+![Screenshot (354)](https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/65d30093-b6ce-460b-8988-aace86f28520)
+
 
 ### Technologies Used
 - **Frontend** : HTML,CSS,Javascript,React.js
