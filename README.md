@@ -11,6 +11,8 @@
 - The Application automatically extracts the students data and counsellors data from the documents and creates their profiles respectively.
 - so that , the counsellors of the respective branches dont need to maintain a book of details of every student.
 - And the hod of every branch can view the in detail analysis of thier branch students.
+![Screenshot (356)](https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/1a85b138-30f0-4bb0-b240-8acf9884ee07)
+
 
 ### WorkFlow 
 - when the admin uploads the results pdf and counsellors data , the application automatically extracts the details from that and creates and maintains the profiles for the same.
@@ -21,6 +23,8 @@
 <img width="463" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/434044fd-7347-46c4-a7ef-0c4fe912a5d2">
 - This is the sample Login page/Landing page of the application (with no styling though).
 - This is the sample result landing page of the student.(again with no styling though).
+![Screenshot (357)](https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/7771be0b-2b7f-40d3-9444-96ace4f48936)
+
 <img width="946" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/8e76319c-01d1-4145-a7e6-5078f0091fe2">
 - Here are the functionalites samples of the admin & counsellor: 
 <img width="416" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/3c00a546-c8ce-437e-b997-4d2e5befe166">
