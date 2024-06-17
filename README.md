@@ -11,6 +11,7 @@
 - The Application automatically extracts the students data and counsellors data from the documents and creates their profiles respectively.
 - so that , the counsellors of the respective branches dont need to maintain a book of details of every student.
 - And the hod of every branch can view the in detail analysis of thier branch students.
+
 ![Screenshot (356)](https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/1a85b138-30f0-4bb0-b240-8acf9884ee07)
 
 
@@ -20,13 +21,15 @@
 - And next , counsellor can login with his/her credentials (id and password) and list of their counselling students will appear and they can visit profile of any student of thier counselling.
 - And next , Hod of each branch can login with branch name and can view list of counsellors of that branch , in detail analysis of the students of that branch.
 - Finally , the principal of the college can login into any section and can view any details of the students & counsellors , branches and hods.
+
 ![Screenshot (357)](https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/7771be0b-2b7f-40d3-9444-96ace4f48936)
-- This is the sample Login page/Landing page of the application (with no styling though).
-- This is the sample result landing page of the student.(again with no styling though).
+- This is the sample Login page/Landing page of the application.
+- This is the sample result landing page of the student.
 
 
 <img width="946" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/8e76319c-01d1-4145-a7e6-5078f0091fe2">
 - Here are the functionalites samples of the admin & counsellor: 
+
 <img width="416" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/3c00a546-c8ce-437e-b997-4d2e5befe166">
 <img width="278" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/40b9f901-f701-45e1-ac34-e09021061258">
 <img width="419" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/c249a02a-a11f-4563-a74f-28e04ec50a75">
