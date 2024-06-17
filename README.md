@@ -20,10 +20,10 @@
 - And next , counsellor can login with his/her credentials (id and password) and list of their counselling students will appear and they can visit profile of any student of thier counselling.
 - And next , Hod of each branch can login with branch name and can view list of counsellors of that branch , in detail analysis of the students of that branch.
 - Finally , the principal of the college can login into any section and can view any details of the students & counsellors , branches and hods.
-<img width="463" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/434044fd-7347-46c4-a7ef-0c4fe912a5d2">
+![Screenshot (357)](https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/7771be0b-2b7f-40d3-9444-96ace4f48936)
 - This is the sample Login page/Landing page of the application (with no styling though).
 - This is the sample result landing page of the student.(again with no styling though).
-![Screenshot (357)](https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/7771be0b-2b7f-40d3-9444-96ace4f48936)
+
 
 <img width="946" alt="image" src="https://github.com/sureshmrd/StudentManagementSystem/assets/123853377/8e76319c-01d1-4145-a7e6-5078f0091fe2">
 - Here are the functionalites samples of the admin & counsellor: 
